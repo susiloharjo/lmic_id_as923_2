@@ -1,6 +1,6 @@
 # lmic_id_as923_2
 
-Test lmic as923_2 not tested 
+Test lmic for id as923-2 not tested 
 
 ABP ok but OTAA not tested 
 
